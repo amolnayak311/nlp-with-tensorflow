@@ -1,4 +1,7 @@
-
+coco-dataset/*
+Shakespeare/*
+val2014/*
 .ipynb_checkpoints/*
-
-*.gz
+MNIST_data/*
+fairytales/*
+*.pkl
