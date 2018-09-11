@@ -5,3 +5,9 @@ val2014/*
 MNIST_data/*
 fairytales/*
 *.pkl
+Flickr8k/*
+**/*.h5
+**/*.hdf5
+
+
+trained_10_epochs.hdf5
